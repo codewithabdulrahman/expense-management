@@ -9,7 +9,8 @@ An Expense Management System is a software application designed to help organiza
 
 ## Screenshots and Live Demo
 - Signup or Login Pages
-![Screenshot (597)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/95190bee-080a-4c75-a9e2-c6ed1b9eeb04)
+![Screenshot (597)]()
+<img src="https://github.com/codewithabdulrahman/expense-management/assets/93040617/95190bee-080a-4c75-a9e2-c6ed1b9eeb04" >
 ![Screenshot (598)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/06293f81-2a54-47a7-864f-8e7bccfc8275)
 - Database ScreenShoot
 # Expense Management System
