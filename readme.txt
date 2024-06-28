@@ -12,17 +12,24 @@ An Expense Management System is a software application designed to help organiza
 ![Screenshot (597)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/95190bee-080a-4c75-a9e2-c6ed1b9eeb04)
 ![Screenshot (598)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/06293f81-2a54-47a7-864f-8e7bccfc8275)
 - Database ScreenShoot
-![Screenshot (582)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/2a5ac58f-2324-4459-a340-4f7e773086ad)
-![Screenshot (584)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/8ef5c80a-e712-410f-8eb8-af885efee6b0)
-![Screenshot (587)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/9061535c-25c0-44b9-aa87-9a2af1f1887b)
-![Screenshot (588)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/afb7cb25-87af-48ef-a468-ffc63b118221)
-![Screenshot (589)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/e8a7e319-5c38-4e87-a60e-251fc4299942)
-- Admin Panel Site
-![Screenshot (593)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/b9fce00b-72c4-4312-88b0-c07adc8af2a7)
-![Screenshot (595)](https://github.com/codewithabdulrahman/expense-management/assets/93040617/78549e08-1a95-4832-98c5-60c77a82d36e)
+# Expense Management System
 
-![Screenshot (596)]()
-<img src="https://github.com/codewithabdulrahman/expense-management/assets/93040617/0e18b24f-fe3b-4c0a-8cde-a56bc829d018">
+## Screenshots
+
+![Database Screenshot 1](https://github.com/codewithabdulrahman/expense-management/assets/93040617/95190bee-080a-4c75-a9e2-c6ed1b9eeb04)
+![Database Screenshot 2](https://github.com/codewithabdulrahman/expense-management/assets/93040617/06293f81-2a54-47a7-864f-8e7bccfc8275)
+![Database Screenshot 3](https://github.com/codewithabdulrahman/expense-management/assets/93040617/2a5ac58f-2324-4459-a340-4f7e773086ad)
+![Database Screenshot 4](https://github.com/codewithabdulrahman/expense-management/assets/93040617/8ef5c80a-e712-410f-8eb8-af885efee6b0)
+![Database Screenshot 5](https://github.com/codewithabdulrahman/expense-management/assets/93040617/9061535c-25c0-44b9-aa87-9a2af1f1887b)
+![Database Screenshot 6](https://github.com/codewithabdulrahman/expense-management/assets/93040617/afb7cb25-87af-48ef-a468-ffc63b118221)
+![Database Screenshot 7](https://github.com/codewithabdulrahman/expense-management/assets/93040617/e8a7e319-5c38-4e87-a60e-251fc4299942)
+
+## Admin Panel Site
+
+![Admin Panel Screenshot 1](https://github.com/codewithabdulrahman/expense-management/assets/93040617/b9fce00b-72c4-4312-88b0-c07adc8af2a7)
+![Admin Panel Screenshot 2](https://github.com/codewithabdulrahman/expense-management/assets/93040617/78549e08-1a95-4832-98c5-60c77a82d36e)
+![Admin Panel Screenshot 3](https://github.com/codewithabdulrahman/expense-management/assets/93040617/0e18b24f-fe3b-4c0a-8cde-a56bc829d018)
+
 
 ## Features
 
